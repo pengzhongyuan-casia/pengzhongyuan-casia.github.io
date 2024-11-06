@@ -22,7 +22,7 @@ I am a Master's student at [the School of Artificial Intelligence](https://ai.uc
 My research interests lie in large language models, intelligent agents, and artificial intelligence-generated content (AIGC), focusing on advancing the fields of natural language processing and automated content creation.
 
 # 🔥 News
-- *2024.010*: &nbsp; One papers accepted by NeurIPS 2024 Datasets and Benchmarks Track.
+- *2024.10*: &nbsp; One papers accepted by NeurIPS 2024 Datasets and Benchmarks Track.
 - *2024.08*: &nbsp; One paper accepted by ACL 2024 Findings. 
 
 
