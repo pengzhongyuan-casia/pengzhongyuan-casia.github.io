@@ -34,7 +34,7 @@ My research interests lie in large language models, intelligent agents, and arti
 [[Paper](https://arxiv.org/abs/2310.00746)]
 [[Code](https://github.com/InteractiveNLP-Team/RoleLLM-public)]
 
-Zekun Moore Wang, **Zhongyuan Peng**, Haoran Que, Jiaheng Liu, Wangchunshu Zhou, Yuhan Wu, Hongcheng Guo, Ruitong Gan, Zehao Ni, Jian Yang, Man Zhang, Zhaoxiang Zhang, Wanli Ouyang, Ke Xu, Stephen W. Huang, Jie Fu, Junran Peng
+Zekun Moore Wang\*, **Zhongyuan Peng\***, Haoran Que\*, Jiaheng Liu, Wangchunshu Zhou, Yuhan Wu, Hongcheng Guo, Ruitong Gan, Zehao Ni, Jian Yang, Man Zhang, Zhaoxiang Zhang, Wanli Ouyang, Ke Xu, Stephen W. Huang, Jie Fu, Junran Peng
 
 Findings of the Association for Computational Linguistics (**Findings of ACL**) 2024
 
@@ -61,7 +61,7 @@ NeurIPS Dataset and Benchmark Track 2024
 [[Paper](https://arxiv.org/abs/2410.13639)]
 [[Github](https://github.com/Open-Source-O1/o1_Reasoning_Patterns_Study)]
 
-Mengqi Zhou, Jun Hou, **Chuanchen Luo**, Yuxi Wang, Zhaoxiang Zhang, Junran Peng
+Siwei Wu\*, **Zhongyuan Peng\***, Xinrun Du\*, Tuney Zheng\*, Minghao Liu, Jialong Wu, Jiachen Ma, Yizhi Li, Jian Yang, Wangchunshu Zhou, Qunshu Lin, Junbo Zhao, Zhaoxiang Zhang, Wenhao Huang, Ge Zhang, Chenghua Lin, J.H. Liu
 
 </div>
 </div>
@@ -74,7 +74,7 @@ Mengqi Zhou, Jun Hou, **Chuanchen Luo**, Yuxi Wang, Zhaoxiang Zhang, Junran Peng
 [[Huggingface](https://huggingface.co/datasets/wpei/MTU-Bench)]
 
 
-Genghao Zhang, Yuxi Wang, **Chuanchen Luo**, Shibiao Xu, Junran Peng, Zhaoxiang Zhang, Man Zhang
+Pei Wang, Yanan Wu, Zekun Wang, Jiaheng Liu, Xiaoshuai Song, **Zhongyuan Peng**, Ken Deng, Chenchen Zhang, Jiakai Wang, Junran Peng, Ge Zhang, Hangyu Guo, Zhaoxiang Zhang, Wenbo Su, Bo Zheng
 
 </div>
 </div>
