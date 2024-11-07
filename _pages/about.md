@@ -28,6 +28,17 @@ My research interests lie in large language models, intelligent agents, and arti
 
 # 📝 Selected Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS Dataset 2024</div><img src='images/roleagent.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**RoleAgent: Building, Interacting, and Benchmarking High-quality Role-Playing Agents from Scripts**
+
+Jiaheng Liu, Zehao Ni, Haoran Que, Tao Sun, Zekun Wang, Jian Yang, Jiakai Wang, Hongcheng Guo, **Zhongyuan Peng**, Ge Zhang, Jiayi Tian, Xingyuan Bu, Ke Xu, Wenge Rong, Junran Peng, Zhaoxiang Zhang
+
+NeurIPS Dataset and Benchmark Track 2024
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 Findings</div><img src='images/rolellm.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models**
@@ -41,16 +52,7 @@ Findings of the Association for Computational Linguistics (**Findings of ACL**) 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS Dataset 2024</div><img src='images/roleagent.png' width="190" height="90"></div></div>
-<div class='paper-box-text' markdown="1"> 
-**RoleAgent: Building, Interacting, and Benchmarking High-quality Role-Playing Agents from Scripts**
 
-Jiaheng Liu, Zehao Ni, Haoran Que, Tao Sun, Zekun Wang, Jian Yang, Jiakai Wang, Hongcheng Guo, **Zhongyuan Peng**, Ge Zhang, Jiayi Tian, Xingyuan Bu, Ke Xu, Wenge Rong, Junran Peng, Zhaoxiang Zhang
-
-NeurIPS Dataset and Benchmark Track 2024
-
-</div>
-</div>
 
 
 # 📄 Pre-Prints 
