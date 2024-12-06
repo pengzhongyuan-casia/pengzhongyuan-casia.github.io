@@ -31,6 +31,7 @@ My research interests lie in large language models, intelligent agents, and arti
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS Dataset 2024</div><img src='images/roleagent.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **RoleAgent: Building, Interacting, and Benchmarking High-quality Role-Playing Agents from Scripts**
+[[Paper](https://openreview.net/pdf?id=hORTHzt2cE)]
 
 Jiaheng Liu, Zehao Ni, Haoran Que, Tao Sun, Zekun Wang, Jian Yang, Jiakai Wang, Hongcheng Guo, **Zhongyuan Peng**, Ge Zhang, Jiayi Tian, Xingyuan Bu, Ke Xu, Wenge Rong, Junran Peng, Zhaoxiang Zhang
 
