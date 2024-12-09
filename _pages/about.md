@@ -33,7 +33,7 @@ My research interests lie in large language models, intelligent agents, and arti
 **RoleAgent: Building, Interacting, and Benchmarking High-quality Role-Playing Agents from Scripts**
 [[Paper](https://openreview.net/pdf?id=hORTHzt2cE)]
 
-Jiaheng Liu, Zehao Ni, Haoran Que, Tao Sun, Zekun Wang, Jian Yang, Jiakai Wang, Hongcheng Guo, **Zhongyuan Peng**, Ge Zhang, Jiayi Tian, Xingyuan Bu, Ke Xu, Wenge Rong, Junran Peng, Zhaoxiang Zhang
+Jiaheng Liu\*, Zehao Ni\*, Haoran Que\*, Tao Sun, Zekun Wang, Jian Yang, Jiakai Wang, Hongcheng Guo, **Zhongyuan Peng**, Ge Zhang, Jiayi Tian, Xingyuan Bu, Ke Xu, Wenge Rong, Junran Peng†, Zhaoxiang Zhang
 
 NeurIPS Dataset and Benchmark Track 2024
 
@@ -46,7 +46,7 @@ NeurIPS Dataset and Benchmark Track 2024
 [[Paper](https://arxiv.org/abs/2310.00746)]
 [[Code](https://github.com/InteractiveNLP-Team/RoleLLM-public)]
 
-Zekun Moore Wang\*, **Zhongyuan Peng\***, Haoran Que\*, Jiaheng Liu, Wangchunshu Zhou, Yuhan Wu, Hongcheng Guo, Ruitong Gan, Zehao Ni, Jian Yang, Man Zhang, Zhaoxiang Zhang, Wanli Ouyang, Ke Xu, Stephen W. Huang, Jie Fu, Junran Peng
+Zekun Moore Wang\*, **Zhongyuan Peng\***, Haoran Que\*, Jiaheng Liu†, Wangchunshu Zhou, Yuhan Wu, Hongcheng Guo, Ruitong Gan, Zehao Ni, Jian Yang, Man Zhang, Zhaoxiang Zhang†, Wanli Ouyang, Ke Xu, Stephen W. Huang, Jie Fu, Junran Peng
 
 Findings of the Association for Computational Linguistics (**Findings of ACL**) 2024
 
@@ -65,13 +65,18 @@ Findings of the Association for Computational Linguistics (**Findings of ACL**) 
 [[Github](https://github.com/bytedance/FullStackBench)]
 [[Huggingface](https://huggingface.co/datasets/ByteDance/FullStackBench)]
 
+Siyao Liu\*, He Zhu\*, Jerry Liu\*, Shulin Xin\*, Aoyan Li\*, Rui Long, Li Chen, Jack Yang, Jinxiang Xia, **Z.Y. Peng**, Shukai Liu, Zhaoxiang Zhang, Jing Mai, Ge Zhang, Wenhao Huang, Kai Shen†, Liang Xiang†
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/o1.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **A Comparative Study on Reasoning Patterns of OpenAI's o1 Model**
 [[Paper](https://arxiv.org/abs/2410.13639)]
 [[Github](https://github.com/Open-Source-O1/o1_Reasoning_Patterns_Study)]
 
-Siwei Wu\*, **Zhongyuan Peng\***, Xinrun Du\*, Tuney Zheng\*, Minghao Liu, Jialong Wu, Jiachen Ma, Yizhi Li, Jian Yang, Wangchunshu Zhou, Qunshu Lin, Junbo Zhao, Zhaoxiang Zhang, Wenhao Huang, Ge Zhang, Chenghua Lin, J.H. Liu
+Siwei Wu\*, **Zhongyuan Peng\***, Xinrun Du\*, Tuney Zheng\*, Minghao Liu, Jialong Wu, Jiachen Ma, Yizhi Li, Jian Yang, Wangchunshu Zhou, Qunshu Lin, Junbo Zhao, Zhaoxiang Zhang, Wenhao Huang, Ge Zhang†, Chenghua Lin†, J.H. Liu†
 
 </div>
 </div>
@@ -84,7 +89,7 @@ Siwei Wu\*, **Zhongyuan Peng\***, Xinrun Du\*, Tuney Zheng\*, Minghao Liu, Jialo
 [[Huggingface](https://huggingface.co/datasets/wpei/MTU-Bench)]
 
 
-Pei Wang, Yanan Wu, Zekun Wang, Jiaheng Liu, Xiaoshuai Song, **Zhongyuan Peng**, Ken Deng, Chenchen Zhang, Jiakai Wang, Junran Peng, Ge Zhang, Hangyu Guo, Zhaoxiang Zhang, Wenbo Su, Bo Zheng
+Pei Wang\*, Yanan Wu\* Zekun Wang\*, Jiaheng Liu†, Xiaoshuai Song, **Zhongyuan Peng**, Ken Deng, Chenchen Zhang, Jiakai Wang, Junran Peng, Ge Zhang, Hangyu Guo, Zhaoxiang Zhang, Wenbo Su, Bo Zheng
 
 </div>
 </div>
