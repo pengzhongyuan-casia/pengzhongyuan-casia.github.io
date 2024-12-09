@@ -58,6 +58,13 @@ Findings of the Association for Computational Linguistics (**Findings of ACL**) 
 
 # 📄 Pre-Prints 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/FullStack.png width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**FullStack Bench: Evaluating LLMs as Full Stack Coders**
+[[Paper](https://arxiv.org/pdf/2412.00535)]
+[[Github](https://github.com/bytedance/FullStackBench)]
+[[Huggingface](https://huggingface.co/datasets/ByteDance/FullStackBench)]
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/o1.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **A Comparative Study on Reasoning Patterns of OpenAI's o1 Model**
