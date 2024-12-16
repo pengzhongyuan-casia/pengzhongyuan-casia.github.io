@@ -22,11 +22,24 @@ I am a Master's student at [the School of Artificial Intelligence](https://ai.uc
 My research interests lie in large language models, intelligent agents, and artificial intelligence-generated content (AIGC), focusing on advancing the fields of natural language processing and automated content creation.
 
 # 🔥 News
+- *2024.12*: &nbsp; One paper accepted by AAAI 2025.
 - *2024.10*: &nbsp; One paper accepted by NeurIPS 2024 Datasets and Benchmarks Track.
-- *2024.08*: &nbsp; One paper accepted by ACL 2024 Findings. 
+- *2024.05*: &nbsp; One paper accepted by ACL 2024 Findings. 
 
 
 # 📝 Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/Mitigating.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**Mitigating Hallucinations in Large Vision-Language Models by Adaptively Constraining Information Flow**
+[[Paper](https://openreview.net/pdf?id=Zo1Cws50O9)]
+
+Jiaqi Bai, Hongcheng Guo, **Z.Y. Peng**, Jian Yang, Zhoujun Li, Mohan Li, Zhihong Tian
+
+The Association for the Advancement of Artificial Intelligence (**AAAI**) 2025
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS Dataset 2024</div><img src='images/roleagent.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
