@@ -22,12 +22,26 @@ I am a Master's student at [the School of Artificial Intelligence](https://ai.uc
 My research interests lie in large language models, intelligent agents, and artificial intelligence-generated content (AIGC), focusing on advancing the fields of natural language processing and automated content creation.
 
 # 🔥 News
+- *2025.01*: &nbsp; One paper accepted by ICLR 2025.
 - *2024.12*: &nbsp; One paper accepted by AAAI 2025.
 - *2024.10*: &nbsp; One paper accepted by NeurIPS 2024 Datasets and Benchmarks Track.
 - *2024.05*: &nbsp; One paper accepted by ACL 2024 Findings. 
 
 
 # 📝 Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/mtu.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**MTU-Bench: A Multi-granularity Tool-Use Benchmark for Large Language Models**
+[[Paper](https://arxiv.org/abs/2410.11710)]
+[[Github](https://github.com/mtu-bench-team/mtu-bench)]
+[[Huggingface](https://huggingface.co/datasets/wpei/MTU-Bench)]
+Pei Wang\*, Yanan Wu\* Zekun Wang\*, Jiaheng Liu†, Xiaoshuai Song, **Zhongyuan Peng**, Ken Deng, Chenchen Zhang, Jiakai Wang, Junran Peng, Ge Zhang, Hangyu Guo, Zhaoxiang Zhang, Wenbo Su, Bo Zheng
+
+The International Conference on Learning Representations (ICLR) 2025
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/Mitigating.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
@@ -71,6 +85,41 @@ Findings of the Association for Computational Linguistics (**Findings of ACL**) 
 
 # 📄 Pre-Prints 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/critic.jpg' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**Can Large Language Models Detect Errors in Long Chain-of-Thought Reasoning?**
+[[Paper](https://arxiv.org/pdf/2502.19361)]
+[[Github](https://github.com/OpenStellarTeam/DeltaBench)]
+
+Yancheng He\*, Shilong Li\*, Jiaheng Liu\*†, Weixun Wang\*, Xingyuan Bu, Ge Zhang, **Zhongyuan Peng**, Zhaoxiang Zhang, Wenbo Su, Bo Zheng
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/codecritic.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**CodeCriticBench: A Holistic Code Critique Benchmark for Large Language Models**
+[[Paper](https://arxiv.org/pdf/2502.16614)]
+[[Github](https://github.com/multimodal-art-projection/CodeCriticBench)]
+[[Huggingface](https://huggingface.co/datasets/m-a-p/CodeCriticBench)]
+
+Alexander Zhang\*, Marcus Dong\*, Jiaheng Liu\*†, Wei Zhang, Yejie Wang, Jian Yang, Ge Zhang, Tianyu Liu, **Zhongyuan Peng**, Yingshui Tan, Yuanxing Zhang, Zhexu Wang, Weixun Wang, Yancheng He, Ken Deng, Wangchunshu Zhou, Wenhao Huang, Zhaoxiang Zhang
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/supergpqa.jpg' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**SuperGPQA: Scaling LLM Evaluation across 285 Graduate Disciplines**
+[[Paper](https://arxiv.org/pdf/2502.14739)]
+[[Github](https://github.com/SuperGPQA/SuperGPQA)]
+[[Huggingface](https://huggingface.co/datasets/m-a-p/SuperGPQA)]
+
+M-A-P Team
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/FullStack.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **FullStack Bench: Evaluating LLMs as Full Stack Coders**
@@ -90,19 +139,6 @@ Siyao Liu\*, He Zhu\*, Jerry Liu\*, Shulin Xin\*, Aoyan Li\*, Rui Long, Li Chen,
 [[Github](https://github.com/Open-Source-O1/o1_Reasoning_Patterns_Study)]
 
 Siwei Wu\*, **Zhongyuan Peng\***, Xinrun Du\*, Tuney Zheng\*, Minghao Liu, Jialong Wu, Jiachen Ma, Yizhi Li, Jian Yang, Wangchunshu Zhou, Qunshu Lin, Junbo Zhao, Zhaoxiang Zhang, Wenhao Huang, Ge Zhang†, Chenghua Lin†, J.H. Liu†
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/mtu.png' width="190" height="90"></div></div>
-<div class='paper-box-text' markdown="1"> 
-**MTU-Bench: A Multi-granularity Tool-Use Benchmark for Large Language Models**
-[[Paper](https://arxiv.org/abs/2410.11710)]
-[[Github](https://github.com/mtu-bench-team/mtu-bench)]
-[[Huggingface](https://huggingface.co/datasets/wpei/MTU-Bench)]
-
-
-Pei Wang\*, Yanan Wu\* Zekun Wang\*, Jiaheng Liu†, Xiaoshuai Song, **Zhongyuan Peng**, Ken Deng, Chenchen Zhang, Jiakai Wang, Junran Peng, Ge Zhang, Hangyu Guo, Zhaoxiang Zhang, Wenbo Su, Bo Zheng
 
 </div>
 </div>
