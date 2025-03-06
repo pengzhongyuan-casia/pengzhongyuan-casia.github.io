@@ -22,6 +22,7 @@ I am a Master's student at [the School of Artificial Intelligence](https://ai.uc
 My research interests lie in large language models, intelligent agents, and artificial intelligence-generated content (AIGC), focusing on advancing the fields of natural language processing and automated content creation.
 
 # 🔥 News
+- *2025.03*: &nbsp; One paper accepted by ICLR 2025 Workshop SCI-FM.
 - *2025.01*: &nbsp; One paper accepted by ICLR 2025.
 - *2024.12*: &nbsp; One paper accepted by AAAI 2025.
 - *2024.10*: &nbsp; One paper accepted by NeurIPS 2024 Datasets and Benchmarks Track.
@@ -29,6 +30,19 @@ My research interests lie in large language models, intelligent agents, and arti
 
 
 # 📝 Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025 Workshop SCI-FM</div><img src='images/o1.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**A Comparative Study on Reasoning Patterns of OpenAI's o1 Model**
+[[Paper](https://arxiv.org/abs/2410.13639)]
+[[Github](https://github.com/Open-Source-O1/o1_Reasoning_Patterns_Study)]
+
+Siwei Wu\*, **Zhongyuan Peng\***, Xinrun Du\*, Tuney Zheng\*, Minghao Liu, Jialong Wu, Jiachen Ma, Yizhi Li, Jian Yang, Wangchunshu Zhou, Qunshu Lin, Junbo Zhao, Zhaoxiang Zhang, Wenhao Huang, Ge Zhang†, Chenghua Lin†, J.H. Liu†
+
+The International Conference on Learning Representations (ICLR) 2025 Workshop on Open Science for Foundation Models (SCI-FM)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/mtu.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
@@ -128,17 +142,6 @@ M-A-P Team
 [[Huggingface](https://huggingface.co/datasets/ByteDance/FullStackBench)]
 
 Siyao Liu\*, He Zhu\*, Jerry Liu\*, Shulin Xin\*, Aoyan Li\*, Rui Long, Li Chen, Jack Yang, Jinxiang Xia, **Z.Y. Peng**, Shukai Liu, Zhaoxiang Zhang, Jing Mai, Ge Zhang, Wenhao Huang, Kai Shen†, Liang Xiang†
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/o1.png' width="190" height="90"></div></div>
-<div class='paper-box-text' markdown="1"> 
-**A Comparative Study on Reasoning Patterns of OpenAI's o1 Model**
-[[Paper](https://arxiv.org/abs/2410.13639)]
-[[Github](https://github.com/Open-Source-O1/o1_Reasoning_Patterns_Study)]
-
-Siwei Wu\*, **Zhongyuan Peng\***, Xinrun Du\*, Tuney Zheng\*, Minghao Liu, Jialong Wu, Jiachen Ma, Yizhi Li, Jian Yang, Wangchunshu Zhou, Qunshu Lin, Junbo Zhao, Zhaoxiang Zhang, Wenhao Huang, Ge Zhang†, Chenghua Lin†, J.H. Liu†
 
 </div>
 </div>
