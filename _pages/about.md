@@ -60,7 +60,9 @@ The International Conference on Learning Representations (ICLR) 2025
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/Mitigating.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **Mitigating Hallucinations in Large Vision-Language Models by Adaptively Constraining Information Flow**
-[[Paper](https://openreview.net/pdf?id=Zo1Cws50O9)]
+[[Paper](https://arxiv.org/pdf/2502.20750)]
+[[Code](https://github.com/jiaqi5598/AdaVIB)]
+
 
 Jiaqi Bai, Hongcheng Guo, **Z.Y. Peng**, Jian Yang, Zhoujun Li, Mohan Li, Zhihong Tian
 
@@ -72,7 +74,7 @@ The Association for the Advancement of Artificial Intelligence (**AAAI**) 2025
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS Dataset 2024</div><img src='images/roleagent.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **RoleAgent: Building, Interacting, and Benchmarking High-quality Role-Playing Agents from Scripts**
-[[Paper](https://openreview.net/pdf?id=hORTHzt2cE)]
+[[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/5875aca1ef70285a35940afbbce0f9fb-Paper-Datasets_and_Benchmarks_Track.pdf)]
 
 Jiaheng Liu\*, Zehao Ni\*, Haoran Que\*, Tao Sun, Zekun Wang, Jian Yang, Jiakai Wang, Hongcheng Guo, **Zhongyuan Peng**, Ge Zhang, Jiayi Tian, Xingyuan Bu, Ke Xu, Wenge Rong, Junran Peng†, Zhaoxiang Zhang
 
