@@ -101,6 +101,29 @@ Findings of the Association for Computational Linguistics (**Findings of ACL**) 
 
 # 📄 Pre-Prints 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/FormalMath.jpg' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**FormalMATH: Benchmarking Formal Mathematical Reasoning of Large Language Models**
+[[Paper](https://arxiv.org/pdf/2505.02735)]
+[[Github](https://github.com/Sphere-AI-Lab/FormalMATH-Bench)]
+[[Huggingface](https://huggingface.co/SphereLab)]
+
+Zhouliang Yu\*, Ruotian Peng\*, Keyi Ding\*, Yizhe Li, **Zhongyuan Peng**, Minghao Liu, Yifan Zhang, Zheng Yuan, Huajian Xin, Wenhao Huang, Yandong Wen, Ge Zhang, Weiyang Liu†
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/IVBench.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**IV-Bench: A Benchmark for Image-Grounded Video Perception and Reasoning in Multimodal LLMs**
+[[Paper](https://arxiv.org/pdf/2504.15415)]
+[[Github](https://github.com/multimodal-art-projection/IV-Bench)]
+
+M-A-P Team
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/critic.jpg' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **Can Large Language Models Detect Errors in Long Chain-of-Thought Reasoning?**
