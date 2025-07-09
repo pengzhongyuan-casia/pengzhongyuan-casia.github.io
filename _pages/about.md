@@ -32,7 +32,7 @@ My research interests lie in large language models, intelligent agents, and arti
 
 # 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025(oral)</div><img src='images/critic.jpg' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025(Oral)</div><img src='images/critic.jpg' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **Can Large Language Models Detect Errors in Long Chain-of-Thought Reasoning?**
 [[Paper](https://arxiv.org/pdf/2502.19361)]
@@ -116,7 +116,7 @@ Findings of the Association for Computational Linguistics (**Findings of ACL**) 
 
 # 📄 Pre-Prints 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/criticlean_intro.jpg' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/criticlean_intro.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **CriticLean: Critic-Guided Reinforcement Learning for Mathematical Formalization**
 [[Paper](https://arxiv.org/pdf/2507.06181)]
