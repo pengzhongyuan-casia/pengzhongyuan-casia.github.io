@@ -116,6 +116,16 @@ Findings of the Association for Computational Linguistics (**Findings of ACL**) 
 
 # 📄 Pre-Prints 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/kat.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**KAT-V1: Kwai-AutoThink Technical Report**
+[[Paper](https://arxiv.org/pdf/2507.06181)]
+
+Zizheng Zhan\*†, Ken Deng\*, Huaixi Tang\*, Wen Xiang\*, Kun Wu\*, Weihao Li, Wenqiang Zhu, Jingxuan Xu, Lecheng Huang, Zongxian Feng, Shaojie Wang, Shangpeng Yan, Xuxing Chen, Jiaheng Liu, **Zhongyuan Peng**, Zuchen Gao, Haoyang Huang, Xiaojiang Zhang, Jinghui Wang, Zheng Lin, Mengtong Li, Huiming Wang, Ziqi Zhan, Yanan Wu, Yuanxing Zhang, Jian Yang, Guang Chen, Haotian Zhang, Bin Chen, Bing Yu
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/criticlean_intro.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **CriticLean: Critic-Guided Reinforcement Learning for Mathematical Formalization**
