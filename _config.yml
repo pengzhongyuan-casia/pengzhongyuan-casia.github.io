@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhongyuan Peng \n 彭中园"
   avatar           : "images/pzy.png"
-  bio              : "Graduate Student"
-  location         : "Beijing, China"
-  school           : "University of Chinese Academy of Sciences"
+  bio              : "Ph.D. Student"
+  location         : "Shanghai, China"
+  school           : "Fudan University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=oZ8eV0EAAAAJ"
-  email            : "zhongyuan_peng@cripac.ia.ac.cn"
+  email            : "pengzy25@m.fudan.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Happzy-WHU"
+  github           : "CodePoet-FDU"
   google_plus      :
   keybase          :
   instagram        :
