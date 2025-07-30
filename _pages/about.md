@@ -18,8 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🎓 About Me
-I am a Master's student at [the School of Artificial Intelligence](https://ai.ucas.ac.cn/index.php/zh-cn/), [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/). 
-My research interests lie in large language models, intelligent agents, and artificial intelligence-generated content (AIGC), focusing on advancing the fields of natural language processing and automated content creation.
+I am currently a Ph.D. student at [College of Computer Science and Artificial Intelligence](https://cs.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/). 
+My research interests lie in *large language models*, *intelligent agents*, and *artificial intelligence-generated content (AIGC)*, focusing on advancing the fields of natural language processing and automated content creation.
 
 # 🔥 News
 - *2025.05*: &nbsp; One paper accepted by ACL 2025(Oral).
@@ -200,7 +200,7 @@ Siyao Liu\*, He Zhu\*, Jerry Liu\*, Shulin Xin\*, Aoyan Li\*, Rui Long, Li Chen,
 
 
 # 📖 Experiences
-* Ph.D. in the [College of Computer Science and Artificial Intelligence ](https://cs.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/)  
+* Ph.D. in the [College of Computer Science and Artificial Intelligence](https://cs.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/)  
   Date: 2025.09 ~ (now)
   Supervisor: Prof. [Yixin Cao (曹艺馨)](https://taominer.github.io/).
 
