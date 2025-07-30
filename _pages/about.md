@@ -190,8 +190,12 @@ Siyao Liu\*, He Zhu\*, Jerry Liu\*, Shulin Xin\*, Aoyan Li\*, Rui Long, Li Chen,
 
 
 # 📖 Experiences
+* Ph.D. in the [College of Computer Science and Artificial Intelligence ](https://cs.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/)  
+  Date: 2025.09 ~ (now)
+  Supervisor: Prof. [Yixin Cao (曹艺馨)](https://taominer.github.io/).
+
 * M.Eng. in the [Institute of Automation](http://www.ia.cas.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/)  
-  Date: 2022.09 ~ (now)  
+  Date: 2022.09 ~ 2025.06
   Supervisor: Prof. [Zhaoxiang Zhang (张兆翔)](https://zhaoxiangzhang.net/).
   
 * B.E. in the [School of Computer Science](https://cs.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/)  
