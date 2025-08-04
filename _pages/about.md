@@ -205,7 +205,7 @@ Siyao Liu\*, He Zhu\*, Jerry Liu\*, Shulin Xin\*, Aoyan Li\*, Rui Long, Li Chen,
   Date: 2025.09 ~ (now)
   Supervisor: Prof. [Yixin Cao (曹艺馨)](https://taominer.github.io/).
 
-* M.Eng. in the [Institute of Automation](http://www.ia.cas.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/)  
+* M.E. in the [Institute of Automation](http://www.ia.cas.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/)  
   Date: 2022.09 ~ 2025.06
   Supervisor: Prof. [Zhaoxiang Zhang (张兆翔)](https://zhaoxiangzhang.net/).
   
