@@ -18,8 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🎓 About Me
-I am currently a Ph.D. student at [College of Computer Science and Artificial Intelligence](https://cs.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/). 
-My research interests lie in *large language models*, *intelligent agents*, and *artificial intelligence-generated content (AIGC)*, focusing on advancing the fields of natural language processing and automated content creation.
+I am currently a Ph.D. student at the [College of Computer Science and Artificial Intelligence](https://cs.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/). 
+My research interests lie in **large language models**, **large vision-language models**, and **intelligent agents**, focusing on advancing the fields of natural language processing and automated content creation.
 
 # 🔥 News
 - *2025.05*: &nbsp; One paper accepted by ACL 2025(Oral).
